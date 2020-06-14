@@ -5,3 +5,11 @@
 
 + A basic c++ logic implimentation with Qt to create a cross platform desktop application. This repository will help students and professionals who wants to start with c++ to create a desktop applocation as well as help to learn how to write a code in c++ with basic logics like Prime number, Factorial of a number and Perfect number.
 
+## Prime number
+<img src="./screenshot/prime.png">
+
+## Perfect number
+<img src="./screenshot/per.png">
+
+## Factorial
+<img src="./screenshot/fact.png">
